@@ -1,0 +1,215 @@
+.logo {
+border-radius: 50%;
+}
+
+#profil {
+margin: 0;
+padding: 0;
+color: red;
+border-color: red;
+float: left;
+width: 80px;
+}
+
+#profil li :hover {
+color: white;
+}
+
+#profil:hover .choixprofil {
+display: block;
+}
+
+.profil {
+background-color: black;
+color: red;
+border-color: red;
+float: left;
+}
+
+.choixprofil {
+display: none;
+font-size: 70%;
+}
+
+.choixprofil li a {
+width: 97.85px;
+height: 23.2px;
+}
+
+ul .choixprofil {
+top: -220px; left: -40px;
+padding: 0;
+
+}
+
+ul {
+     list-style: none;
+     text-align: right;
+}
+
+li {
+text-align: center;
+color: red;
+}
+
+li[data-choisi="true"] {
+font-weight: 700;
+color: #8B0000;
+}
+
+.connexion {
+background-color: black;
+color: red;
+border-color: red;
+float: right;
+
+}
+
+h1 { 
+font-size: 250%;
+width: 500px;
+text-align: center;
+display: inline;
+}
+
+h2 {
+text-align: left;
+padding: 0px;
+margin-top: 0px;
+}
+
+h3 {
+text-align: right;
+padding: 0px;
+margin-top: 0px;
+}
+
+h4 { 
+font-size: 175%;
+width: 500px;
+display: inline;
+}
+
+h5 { 
+font-size: 150%;
+width: 500px;
+}
+
+
+
+iframe {
+position: absolute;
+top: 30%; 
+left: 32%;
+
+
+}
+
+
+body {
+background-color: rgb(10,10,10);
+color: red;
+margin: 0px;
+padding: 0px;
+font-size: 150%;
+font-family: URW Chancery L, cursive;
+}
+
+a {
+text-align: center;
+text-decoration: none;
+color: red;
+}
+
+a;hover {
+curseur: pointer;
+}
+
+
+
+.menu {
+     list-style: none;
+     text-align: left;
+     width: 100px;
+     height: 23;
+
+
+}
+
+.sub-menu {
+text-align: left;
+display: none;
+top: 0px; left: 0px;
+}
+
+.sub-menu li {
+top: -220px; left: -40px;
+
+}
+
+header li {
+font-size: 19px;
+position: relative;
+top: -220px; left: -20px;
+vertical-align: top;
+}
+
+header li a:hover {
+color: #fff;
+}
+
+.menu:hover .sub-menu { 
+display: block;  
+}
+
+
+.previous {
+font-size: 200%;
+top: 23%; left: 28%;
+position: absolute; 	
+}
+
+
+.next {
+font-size: 200%; 
+top: 23%; left: 72%;
+position: absolute; 	
+}
+
+.round li a:hover {
+color: #fff;	
+}
+
+.back:hover {
+color: white;
+}
+
+.back {
+    font-size: 200%;
+    float: left;
+    width: 10px;
+    height: 10px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+
+
+}
+
+.173 li {
+text-align: left;
+}
+
+.table1 {
+font-size: 200%;
+width: 62%;
+}
+
+
+.table2 {
+font-size: 150%;
+text-align: center;
+margin: auto;
+}
+

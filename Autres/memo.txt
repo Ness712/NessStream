@@ -1,0 +1,6 @@
+width="1912" height="1034
+width="1920" height="1020
+display: block ->  masquer le menu avec class = sub-menu
+hover -> quand il est survolé avk la souris
+display: none; -> pour masquer le menu avec class = sub-menu
+padding-bottom -> espacer en dessous
